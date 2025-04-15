@@ -1,0 +1,6 @@
+.App{
+background-image:url('./images/BACKGROUND.png');
+background-position: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
